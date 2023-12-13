@@ -22,12 +22,4 @@ This are graphical UI elements for the Qt platform.
 
 - **WQSwitch:** A switch widget for activating or deactivating some options.
 
-## Installing
-
-- **On Windows**: Open and run the `wqwidgets.pro` project file and copy the `wqwidgets.a`, `wqwidgets.dll` and the header files into your project's "include" path.
-
-- **On Linux:** Open and run the `wqwidgets.pro` project file and copy the respective library and header files into your project's "include" path.
-
-See []() for more information about installing and using libraries in Qt.
-
-
+# 
