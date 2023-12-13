@@ -1,0 +1,8 @@
+# ignore ALL .log files
+*.log
+
+# ignore ALL files in ANY directory named temp
+temp/
+
+build-wqdemo-Desktop_Qt_5_12_12_MinGW_64_bit-Release/
+build-wqdemo-Desktop_Qt_5_12_12_MinGW_64_bit-Debug/
