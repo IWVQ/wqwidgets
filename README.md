@@ -2,6 +2,8 @@
 
 This are graphical UI elements for the Qt platform.
 
+![img](wqwidgets.png)
+
 ## The widgets
 
 - **WQColorButton:** This is a button for selecting colors.
